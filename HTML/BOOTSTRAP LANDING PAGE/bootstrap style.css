@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  .heroImg {
+      width: 24rem;
+  }
+  .coffeeContainer{
+    padding: 5rem 2rem;
+  }
+  
+  @media (max-width: 992px) {
+    .heroImg {
+      width: 50%;
+    }
+  
+    
+    .coffeeContainer{
+    padding: 2rem 1rem;
+  }
+  }
+
+/* .sidechick{
+    width: 100% ;
+} */
+
+/* .heroimg{
+    width: 24rem;
+}
+
+@media( max-width: 992px) {
+    .heroimg{
+        width: 2rem;
+    }
+} */

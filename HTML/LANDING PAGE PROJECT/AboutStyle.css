@@ -1,0 +1,25 @@
+
+
+
+
+.divlastimg img{
+    display: flex;
+    width: 22%;
+    margin-left: 6.5rem;
+    /* align-items: center; */
+}
+
+
+
+
+
+.divlastimg3 p{
+    font: 1rem;
+}
+
+.divimgall{
+    display: flex;
+    flex-direction: row;
+    gap: 26.5rem;
+    margin-left: 8rem;
+}
